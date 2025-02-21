@@ -19,6 +19,9 @@
 # 📈 Leetcode:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/michael1215?ext=contest)
 
+test
+
+
 <!--
 *lu1215/lu1215* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
